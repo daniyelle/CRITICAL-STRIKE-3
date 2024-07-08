@@ -1,3 +1,5 @@
+--used warrior as a example
+
 function getPlayer(humanoid) 
 local players = game.Players:children() 
 for i = 1, #players do 
