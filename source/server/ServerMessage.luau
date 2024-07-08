@@ -1,3 +1,5 @@
+--THIS IS A CLIENT SIDED SCRIPT*****
+
 wait(.1)
 
 local col = Instance.new("Color3Value") col.Parent = script
