@@ -1,8 +1,8 @@
-✦ Hey there! Dani here. 👋
+✦ hey there, I'm dani. 👋
 
-  If you do end up using anything from here for some sort of CS revival project please link this github repository as credit. 
+please `credit me if you do end up using this` repositary for any sort of CS revival project.
 
-  Direct all (if any) questions regaurding this repositary to @newgroundsdeathrugby on discord.
+direct all (if any) `questions regaurding this repositary to @newgroundsdeathrugby on discord.`
 
 `thank you.`                                                                                                           
 
