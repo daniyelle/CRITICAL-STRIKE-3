@@ -28,7 +28,7 @@ function findPlayer(name)
 end
 
 function sendmessage(player, text)
-	local msg=workspace.ServerMessage:Clone()
+	local msg=game.ServerStorage.ServerMessage:Clone()
 	msg.Text.Value=text
 	msg.Color.Value=Color3.new(1, 1, 1)
 	msg.Parent=player.PlayerGui
